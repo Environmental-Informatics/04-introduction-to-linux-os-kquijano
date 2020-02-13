@@ -1,0 +1,7 @@
+Typing a few lines of text
+and press Esc
+
+Press i and edit again 
+Add more content
+
+Move around with 6 different commands
